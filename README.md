@@ -24,5 +24,5 @@ Here are some notable projects I have worked on during my programming journey:
 - Project 4: DovizPanell.
 
 ## Contact
-Feel free to reach out to me if you have any questions or opportunities for collaboration. You can contact me via email at [ah.maelki99@gmail.com](mailto:your-email@example.com).
+Feel free to reach out to me if you have any questions or opportunities for collaboration. You can contact me via email at [ah.maleki99@gmail.com](mailto:ah.maleki99@gmail.com).
 
