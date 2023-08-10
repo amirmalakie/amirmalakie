@@ -20,7 +20,7 @@ My name is Amirhossein Maleki, and I have been passionate about programming for 
 Here are some notable projects I have worked on during my programming journey:
 - Project 1: Tourism platform.
 - Project 2: The platform for identifying the driver's behavior and physical condition
-- Project 3: Implementation of value-added services with Irancell and Mobile first operators in Iran.
+- Project 3: Implementation of value-added services with Irancell and Hamraheaval in Iran.
 - Project 4: DovizPanell.
 
 ## Contact
